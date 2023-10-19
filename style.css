@@ -1,0 +1,19 @@
+body {
+    width: 75%;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+img#pythag_diagram {
+    width: 50%;
+    margin: auto;
+    display: block;
+}
+
+table {
+    border: none;
+}
+
+.center {
+    text-align: center;
+}
